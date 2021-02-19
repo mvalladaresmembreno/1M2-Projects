@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+			UNIVERSIDAD NACIONAL DE INGENIERIA
+
+		       FACULTAD DE ELECTRONICA Y COMPUTACION
+
+			Nombre del proyecto: Kirby's Maze
+
+		Integrantes: 
+	
+		Margarita Concepcion Valladares M., 2020-0455U
+		Nestor Alexander M. Cuadra, 2020-0504U
+		Weychen Eng Cuadrado, 2020-0316U
+
+		Grupo: 1M2-CO	
+
+		Docente: Ing. Nelson Barrios
+
+		Fecha: 25/11/20
+
+				Presione cualquier tecla para volver
